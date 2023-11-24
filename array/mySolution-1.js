@@ -21,7 +21,6 @@ console.log(removeDuplicate(arr));
 console.log(arr);
 
 // 2nd method
-
 function removeDuplicates(arr) {
   if (arr.length === 0) {
     return 0;
